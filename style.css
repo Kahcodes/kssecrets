@@ -21,7 +21,7 @@ body{
 
     grid-template-columns: 1fr ;
 
-    background-color: linear-gradient('black', 'white');
+    background-color: linear-gradient('#1E90FF');
     font-family: 'Nunito', Arial, Helvetica, sans-serif;
     font-size: 90%;}
 
