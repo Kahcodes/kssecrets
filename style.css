@@ -485,25 +485,25 @@ div#fotolinda > img {
 
 @media (max-width: 1100px) {
     div#fotolinda > img {
-        width: 210px;
+        width: 280px;
     }
 }
 
 @media (max-width: 900px) {
     div#fotolinda > img {
-        width: 190px;
+        width: 260px;
     }
 }
 
 @media (max-width: 790px) {
     div#fotolinda > img {
-        width: 160px;
+        width: 220px;
     }
 }
 
 @media (max-width: 630px) {
     div#fotolinda > img {
-        width: 120px;
+        width: 200px;
     }
 }
 
@@ -1327,7 +1327,7 @@ div#antesmomentos > h2 {
 }
 
 div#momentos {  
-    background-image: url("./Momentos/dragão.png");
+    background-image: url("./Momentos/Dragão.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1383,7 +1383,7 @@ div#lembrancas > ul {
 
 @media (max-width: 1200px) {
     div#momentos {
-    background-image: url("./Momentos/dragão.png");
+    background-image: url("./Momentos/Dragão.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1393,7 +1393,7 @@ div#lembrancas > ul {
 
 @media (max-width: 1100px) {
     div#momentos {
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("./Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -1403,7 +1403,7 @@ div#lembrancas > ul {
 
 @media (max-width: 1050px) {
     div#momentos {
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("./Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -1413,7 +1413,7 @@ div#lembrancas > ul {
 
 @media (max-width: 950px) {
     div#momentos {
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("./Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -1423,7 +1423,7 @@ div#lembrancas > ul {
 
 @media (max-width: 900px) {
     div#momentos {
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("./Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -1433,7 +1433,7 @@ div#lembrancas > ul {
 
 @media (max-width: 830px) {
     div#momentos {
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("./Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -1443,7 +1443,7 @@ div#lembrancas > ul {
 
 @media (max-width: 790px) {
     div#momentos{
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("../Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
@@ -1453,7 +1453,7 @@ div#lembrancas > ul {
 
 @media (max-width: 700px) {
     div#momentos {
-        background-image: url("./Momentos/dragão.png");
+        background-image: url("./Momentos/Dragão.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
